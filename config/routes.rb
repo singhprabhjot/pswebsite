@@ -1,4 +1,6 @@
 Prabhjot::Application.routes.draw do
+  #root  :to =>  "/Home.html"
+  match '/', :to => redirect('/Home.html')
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
