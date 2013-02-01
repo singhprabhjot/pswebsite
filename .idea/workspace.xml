@@ -59,19 +59,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rack_rewrite.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="rack_rewrite.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/rack_rewrite.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="5" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+            <state line="2" column="32" selection-start="193" selection-end="193" vertical-scroll-proportion="0.051635113">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="18" selection-start="168" selection-end="168" vertical-scroll-proportion="0.20654045">
+            <state line="8" column="18" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/public/Home.html" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/config/initializers/rack_rewrite.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/initializers/rack_rewrite.rb" />
       </list>
     </option>
   </component>
@@ -695,6 +695,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/session_store.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="8" selection-start="61" selection-end="69" vertical-scroll-proportion="0.0">
@@ -704,14 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/rack_rewrite.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="5" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="18" selection-start="168" selection-end="168" vertical-scroll-proportion="0.20654045">
+        <state line="2" column="32" selection-start="193" selection-end="193" vertical-scroll-proportion="0.051635113">
           <folding />
         </state>
       </provider>
